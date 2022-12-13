@@ -1,0 +1,2 @@
+# programovani
+# thle je kalkulacka
